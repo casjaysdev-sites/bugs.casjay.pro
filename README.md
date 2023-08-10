@@ -1,1 +1,1 @@
-# Main site for [bugs.casjay.net](http://bugs.casjay.net)
+# Main site for [bugs.casjay.pro](http://bugs.casjay.pro)
