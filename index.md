@@ -24,8 +24,6 @@ APMPProject Source Code Bugtracker:                   [![APMPProject Source Code
 
 apmpproject.org                                       [![apmpproject.org Bugtracker](https://img.shields.io/github/issues/casjaysdev-sites/apmpproject.org.svg)](https://github.com/casjaysdev-sites/apmpproject.org/issues)  
 bugs.casjay.pro                                       [![bugs.casjay.pro Bugtracker](https://img.shields.io/github/issues/casjaysdev-sites/bugs.casjay.pro.svg)](https://github.com/casjaysdev-sites/bugs.casjay.pro/issues)  
-casjaysdev.pro                                        [![casjaysdev.pro Bugtracker](https://img.shields.io/github/issues/casjaysdev-sites/casjaysdev.pro.svg)](https://github.com/casjaysdev-sites/casjaysdev.pro/issues)  
-status.casjaysdev.pro                                 [![status.casjaysdev.pro Bugtracker](https://img.shields.io/github/issues/casjaysdev-sites/status.casjaysdev.pro.svg)](https://github.com/casjaysdev-sites/status.casjaysdev.pro/issues)  
 help.casjay.pro                                       [![casjay.help Bugtracker](https://img.shields.io/github/issues/casjaysdev-sites/casjay.help.svg)](https://github.com/casjaysdev-sites/help.casjay.pro/issues)  
   
 # All other bugs go here: [![Casjays Bugtracker](https://img.shields.io/github/issues/casjaysdev-sites/bugs.casjay.pro.svg)](https://github.com/casjaysdev-sites/bugs.casjay.pro/issues)  
